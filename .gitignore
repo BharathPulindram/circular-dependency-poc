@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+bundle.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS/IDE specific
+.DS_Store
+.env
+.vscode/
+.idea/
